@@ -14,4 +14,24 @@ Le dépôt contient :
   Les fichiers d'assemblage
   La constitution d'une petite librairie
   
-Evolution sohaitée constituer une base de référence de tous les objets 3D réalisés dans le cadre de la construction d'un réseau ferroviaire.
+Evolution souhaitée constituer une base de référence de tous les objets 3D réalisés dans le cadre de la construction d'un réseau ferroviaire.
+
+La maison est constituée de 10 pièces différentes certaines sont à imprimer en plusieurs exemplaires (fenestrou x2 et fenêtre x4)
+
+Nomenclature des pièces :
+
+1 Face Avant
+2 Face Arrière
+3 Face Côté x2
+4 Toiture Droite
+5 Toiture Gauche
+6 Faitière
+7 Cheminée
+8 Porte fenêtre
+9 Fenestrou x2
+10 Fenêtre x4
+
+Ce qu'il reste à faire:
+
+Impression réel afin de valider l'ensemble, optimisation toiture droite
+Voir si une fondation serait pas un plus pour le montage
