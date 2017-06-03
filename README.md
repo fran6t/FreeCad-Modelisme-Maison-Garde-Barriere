@@ -13,13 +13,13 @@ Le dépôt contient :
 ===================
 
 - Les sources fichiers FreeCad
-- Les fichiers .stl
+- Les fichiers .stl pour l'impression
 - Les fichiers d'assemblage
 - La constitution d'une petite librairie
   
 Evolution souhaitée constituer une base de référence de tous les objets 3D réalisés dans le cadre de la construction d'un réseau ferroviaire.
 
-La maison est constituée de 10 pièces différentes certaines sont à imprimer en plusieurs exemplaires (fenestrou x2 et fenêtre x4)
+La maison est constituée de 10 pièces différentes certaines sont à imprimer en plusieurs exemplaires (fenestrou x2, fenêtre x4, face-cote x2)
 
 Nomenclature des pièces :
 =========================
@@ -38,7 +38,7 @@ Nomenclature des pièces :
 Ce qu'il reste à faire:
 =======================
 
-Impression réel afin de valider l'ensemble, optimisation toiture droite
+Impression réel afin de valider l'ensemble
 Voir si une fondation serait pas un plus pour le montage
 
 
