@@ -19,7 +19,7 @@ Le dépôt contient :
   
 Evolution souhaitée constituer une base de référence de tous les objets 3D réalisés dans le cadre de la construction d'un réseau ferroviaire.
 
-La maison est constituée de 10 pièces différentes certaines sont à imprimer en plusieurs exemplaires (fenestrou x2, fenêtre x4, face-cote x2)
+Dance cette dernière version la maison est constituée de 7 pièces différentes dont une est à imprimer en double exemplaire (Face côté)
 
 Nomenclature des pièces :
 =========================
@@ -31,15 +31,13 @@ Nomenclature des pièces :
 - 5 Toiture Gauche
 - 6 Faitière
 - 7 Cheminée
-- 8 Porte fenêtre
-- 9 Fenestrou x2
-- 10 Fenêtre x4
 
 Ce qu'il reste à faire:
 =======================
 
-Impression réel afin de valider l'ensemble
+Impression réelle afin de valider l'ensemble et l'inquiétude que j'ai quand à la transparence du PLA ou de l'ABS qui laissera peut-être passer de la lumière en cas d'éclairage pas l'intérieur 
 Voir si une fondation serait pas un plus pour le montage
+
 
 
 <table>
