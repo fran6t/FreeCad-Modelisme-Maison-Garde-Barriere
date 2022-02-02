@@ -59,10 +59,14 @@ j'ai donc triché volontairement et grossies celles-ci pour un meilleur rendu. C
 
 <table>
 <tr><td>
-<img src="https://raw.githubusercontent.com/fran6t/FreeCad-Modelisme-Maison-Garde-Barriere/master/Jpg/Nomenclature.jpg" title="Nomemclature" />
+<img src="https://github.com/fran6t/FreeCad-Modelisme-Maison-Garde-Barriere/raw/v2/Jpg/Nomenclature.jpg" title="Nomemclature" />
 </td></tr>
 <tr><td>
 <br />
-<img src="https://raw.githubusercontent.com/fran6t/FreeCad-Modelisme-Maison-Garde-Barriere/master/Jpg/3D.jpg" title="Vue 3D" />
+<img src="https://github.com/fran6t/FreeCad-Modelisme-Maison-Garde-Barriere/raw/v2/Jpg/Stl_Assemblage_Global.jpg" title="Vue 3D" />
+</td></tr>
+<tr><td>
+<br />
+<img src="https://github.com/fran6t/FreeCad-Modelisme-Maison-Garde-Barriere/raw/v2/Jpg/Pieces_print.jpg" title="Pièces imprimées" />
 </td></tr>
 </table>
